@@ -1,5 +1,5 @@
 === Recent Posts by Category Widget ===
-Contributors: rossc
+Contributors: RossC
 Tags: widget, category, categories, recent posts, sidebar
 Requires at least: 3.0.1
 Tested up to: 3.8.1
