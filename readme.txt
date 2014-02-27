@@ -18,7 +18,7 @@ This plugin adds a simple widget that allows you to display a number of recent b
 1. Upload the 'recent-posts-by-category-widget' directory to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Navigate to the 'Widgets' page found under the 'Appearance' menu item
-4. Drag 'Recent Posts by Category Widget' to the target widget area and choose your options
+4. Drag the 'Recent Posts by Category' widget to the target widget area and choose your options
 
 == Screenshots ==
 
