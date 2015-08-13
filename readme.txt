@@ -26,6 +26,9 @@ This plugin adds a simple widget that allows you to display a number of recent b
 
 == Changelog ==
 
+= 1.2 =
+* Switch to PHP5 style constructors for WP v4.3
+
 = 1.1 =
 * Better use of 'widget_title' filter to allow hooks to be used on it.
 
